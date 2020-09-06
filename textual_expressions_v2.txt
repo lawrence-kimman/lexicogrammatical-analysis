@@ -1,0 +1,18 @@
+Item	Continuative	StructuralConjunction	ConjunctivePrep	Adjunct	WhElement
+1	now, well, oh, ah, yes, yeah, no, Now, Well, Oh, Ah, Yes, Yeah, No	null	null	null	null
+2	null	e.g., i.e., viz., and, And, or, but, But, so, So, then, Then	null	null	null
+3	null	as far as, As far as, as soon as, As soon as, until, Until, once, Once	by, By, As far as, In addition to, which, Which 	null	null
+4	null	while, While, whereas, when, When, as, As, since, Since, before, Before, after, After, if, If, although, Although, because, Because, that, whether	null	null	null
+5	null	null	as well as, instead of, Instead of, with, With, on, On, after, After, before, Before, because of, Because of, despite, Despite	null	null
+6	null	null	null	for example, For example, In other words, in summary, In summary, thus, Thus, specifically, Specifically, Also, In addition, Moreover, Alternatively, In contrast, However, Therefore, Consequently, Nevertheless, later, Later, afterwards, Afterwards, Meanwhile, Firstly, Secondly, Thirdly, Fourthly, Fifthly, Sixthly, Finally, similarly, Similarly, likewise, Likewise	null
+7	null	null	null	First, Second, Third, Fourth, Fifth, Sixth	null
+8	null	null	null	Anyway, all of a sudden, All of a sudden, soon, Soon, in fact, In fact	null
+9	null	null	null	suddenly, Suddenly, previously, Previously, conversely, Conversely, eventually, Eventually	null
+10	null	null	null	instead, Instead	null
+11	null	whilst, Whilst, even after, Even after, even before, Even before, even if, Even if, even as, Even as, even when, Even when, even since, Even since, as soon as	null	null	null
+12	null	null	even after, Even after, even before, Even before, even since, Even since	null	null
+13	null	null	null	null	who, whom, which, whoever, whomever, whichever, whatever
+14	null	null	null	null	when, where, why, how
+15	null	null	null	null	for which
+16	null	null	null	On the other hand, hence, Hence	null
+

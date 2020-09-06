@@ -1,0 +1,100 @@
+process type	subtype	subtype2	subtype3	middle_ranged	middle_non-ranged	effective
+material	creative	general	null	null	"appear, emerge; occur, happen, take place"	null
+material	creative	general	null	null	develop, form, grow, produce	null
+material	creative	general	null	null	null	create, make, prepare
+material	creative	specific	null	null	null	"assemble, build, construct; compose, design, draft, draw, forge, paint, sketch, write; bake, brew, cook; knit, sow, weave; dig, drill; found, establish; open, set up"
+material	transformative	elaborating	state	null	burn, singe, boil, fry, bake, dissolve, cool, freeze, warm, heat, melt, liquefy, pulverize, vaporize, harden, soften	null
+material	transformative	elaborating	make-up	null	"blow up, break, burst, chip, collapse, crack, crash, explode, shatter, tear; mend, heal"	null
+material	transformative	elaborating	make-up	null	erupt	crush, demolish, destroy, damage, mash, smash, squash, wreck
+material	transformative	elaborating	make-up	null	chop, cut, mow, prune, slice, trim	null
+material	transformative	elaborating	make-up	null	null	axe, hack, harpoon, knife, pierce, prick, spear, skewer, stab, sting
+material	transformative	elaborating	surface	null	polish, rub, dust, scratch, wipe	null
+material	transformative	elaborating	surface	null	null	brush, lick, rake, scrape, shave, sweep
+material	transformative	elaborating	size	null	compress, decompress, enlarge, extend, expand, grow, stretch, reduce, shrink, shrivel	null
+material	transformative	elaborating	shape	null	"form, shape; arch, bend, coil, contort, curl, uncurl, curve, deform, distort, fashion, flatten, fold, unfold, stretch, squash, twist"	null
+material	transformative	elaborating	age	null	age, ripen, mature, modernize	null
+material	transformative	elaborating	amount	null	"increase, reduce; strengthen, weaken"	null
+material	transformative	elaborating	colour	null	"colour; blacken, whiten; darken, brighten, fade; solarize"	null
+material	transformative	elaborating	colour	null	null	blush, redden, yellow, pale
+material	transformative	elaborating	light emission	null	"twinkle; glimmer, glisten, glitter, gleam, glow, flash, flicker, sparkle, shimmer"	null
+material	transformative	elaborating	light emission	null	shine	null
+material	transformative	elaborating	light emission	null	null	light, illuminate
+material	transformative	elaborating	sound	null	boom, rumble, rustle, roar, thunder, peal	null
+material	transformative	elaborating	sound	null	chime, toll, sound, ring	null
+material	transformative	elaborating	exterior (cover)	null	peel, skin, peel	null
+material	transformative	elaborating	exterior (cover)	null	null	bark, husk, pare, scalp, shuck
+material	transformative	elaborating	exterior (cover)	null	null	cover, strip, uncover, remove, drape, paper, plate, roof, unroof, wall-paper, shroud, wrap, unwrap
+material	transformative	elaborating	exterior (cover)	null	null	clothe, attire, dress, strip, undress, robe, disrobe
+material	transformative	elaborating	exterior (cover)	null	null	"coat; butter, enamel, gild, grease, lacquer, paint, pave, plaster, stucco, tar, varnish, veneer, whitewash"
+material	transformative	elaborating	interior	null	null	gut, disembowel, dress, pit
+material	transformative	elaborating	contact	null	null	"hit, strike; bump; knock, tap; punch, slap, spank; elbow; kick; belt, cane, shoot, stone, whip"
+material	transformative	elaborating	aperture	null	open, close, shut	null
+material	transformative	elaborating	operation	null	"run, operate, work; ride, drive, fly, sail"	null
+material	transformative	elaborating	operation	null	null	"captain, command, rule, govern; bring up, nurse, mother"
+material	transformative	extending	possession	null	null	"give; offer; tip; advance; bequeath, will, leave, donate, grant, award; cable, fax, post, mail, e-mail, hand; deliver, send; lend, lease, loan; deny"
+material	transformative	extending	possession	null	hire, rent, sell	null
+material	transformative	extending	possession	null	null	feed, serve, supply, provide, present, furnish
+material	transformative	extending	possession	null	null	"deprive, dispossess, divest, rob, strip, cheat; acquire, get, take, grab, steal, pilfer, buy, borrow, hire, rent"
+material	transformative	extending	accompaniment	null	"join, meet; assemble, accumulate, collect, cluster, crowd, flock, herd"	null
+material	transformative	extending	accompaniment	null	"separate; disassemble, disband, disperse, scatter, spread"	null
+material	transformative	enhancing	motion: manner	null	bounce, gyrate, rock, shake, tremble, spin, swing, wave	null
+material	transformative	enhancing	motion: manner	null	"walk, amble, limp, trot, run, jog, gallop, jump, march, stroll; roll, slide; drive, fly, sail"	null
+material	transformative	enhancing	motion: place	null	come, go to, go	bring, take
+material	transformative	enhancing	motion: place	null	"approach, arrive, reach, return; depart, leave"	null
+material	transformative	enhancing	motion: place	null	"circle, encircle, surround, cross, traverse; enter, exit, escape; follow, tail, precede; pass, overtake; land, take off"	null
+material	transformative	enhancing	motion: place	null	"down, drop, fall, fell, rise, raise; capsize, overturn, tilt, tip, topple, upset"	null
+behavioural	sensing as behaviour	null	null	null	look, watch, stare, listen, think, worry, dream	null
+behavioural	saying as behaviour	null	null	null	chatter, grumble, talk, gossip, argue, murmur, mouth	null
+behavioural	physiological processes manifesting sensing	null	null	null	cry, laugh, smile, frown, sigh, sob, snarl, hiss, whine, nod	null
+behavioural	other physiological processes	null	null	null	breathe, sneeze, cough, hiccup, burp, vomit, faint, shit, yawn, sleep	null
+behavioural	bodily postures and pastimes	null	null	null	sing, dance, lay, lain, lying, lying on, lie down, sit	null
+mental	outer	perceptive	null	"perceive, sense; see, notice, glimpse; hear, overhear; feel; taste; smell"	null	assail, strike
+mental	outer	emotive	null	"like, fancy, love, adore, dislike, hate, detest, despise, loathe, abhor; rejoice, exult, grieve, mourn, bemoan, bewail, regret, deplore; fear, dread; enjoy, relish, marvel"	null	"allure, attract, please, displease, disgust, offend, repel, revolt; gladden, delight, gratify, sadden, depress, pain; alarm, startle, frighten, scare, horrify, shock, comfort, reassure, encourage; amuse, entertain, divert, interest, fascinate, bore, weary, worry"
+mental	inner	cognitive	null	"think, believe, suppose, expect, consider, know; understand, realize, appreciate; imagine, dream, pretend; guess, reckon, conjecture, hypothesize; wonder, doubt; remember, recall, forget; fear"	null	"strike, occur to, convince; remind , escape; puzzle, baffle, intrigue, surprise"
+mental	inner	desiderative	null	"want, wish, would like, desire; hope, hope for, long for, yearn, yearn for; intend, plan; decide, resolve, determine; agree, comply, refuse"	null	tempt, induce
+verbal	activity	targeting	null	"praise, flatter, commend, compliment, congratulate; insult, abuse, slander, blame, criticize, chide, censure, pillory, rebuke"	null	null
+verbal	activity	talking	null	speak, talk	null	null
+verbal	semiosis	(neutral quoting)	null	"say, tell; go, be like"	null	null
+verbal	semiosis	indicating	null	tell, report, announce, notify, explain, argue, convince, persuade, promise	null	null
+verbal	semiosis	indicating	null	ask, question, enquire	null	null
+verbal	semiosis	imperating	null	tell, ask, order, command, require, promise, threaten, persuade, convince, entreat, implore, beg	null	null
+relational	intensive	neutral	null	be, feel	null	be
+relational	intensive	phase: time	inceptive	"become; turn, turn into, grow into, grow"	null	"become; turn into, grow into"
+relational	intensive	phase: time	inceptive	get, go, fall, run	null	null
+relational	intensive	phase: time	durative	remain, stay as, stay, keep	null	remain, stay as
+relational	intensive	phase: reality	apparent	seem, appear, qualify as 	null	seem
+relational	intensive	phase: reality	perceptive	look, sound, smell, feel, taste like, taste	null	null
+relational	intensive	phase: reality	realized	turn out, end up as, prove	null	prove
+relational	intensive	measure	null	weigh, cost, measure	null	null
+relational	intensive	quality	null	"seem, appear; matter, count, apply, figure, suffice, abound, differ, vary, dominate, do; hurt, ache; stink, smell; reek, drip, ooze; suck, stink"	null	null
+relational	intensive	role	null	null	null	play, act as, function as, serve as
+relational	intensive	sign	null	null	null	mean, indicate, suggest, imply, show, betoken, mark, reflect
+relational	intensive	equation	null	null	null	equal, add up to, make it
+relational	intensive	kind/part	null	null	null	comprise, feature, include
+relational	intensive	significance	null	null	null	represent, constitute, form
+relational	intensive	example	null	null	null	exemplify, illustrate
+relational	intensive	symbol	null	null	null	express, signify, realize, spell, stand for, mean
+relational	intensive	assignment	neutral	null	null	make it
+relational	intensive	assignment	neutral	null	null	ensure, guarantee, prove, confirm
+relational	intensive	assignment	elaborating	null	null	"elect, choose, choose as, dub; name, christen, term; spell, pronounce"
+relational	intensive	assignment	projection	null	null	"think, consider; prove; call, declare"
+relational	intensive	assignment	projection	null	null	"think, consider; wish, want; prove"
+relational	possessive	neutral	null	"have; belong to"	null	possess
+relational	possessive	feature	null	feature, boast, sport, star	null	null
+relational	possessive	ownership	null	null	null	own, deserve, need, lack
+relational	possessive	containment	null	null	null	"comprise, contain, consist of, house; include, exclude, involve"
+relational	possessive	benefaction	null	null	null	"provide, afford; owe"
+relational	circumstantial	temporal	null	"last, take, date from; range from"	null	greet, predate, anticipate, co-occur with
+relational	circumstantial	temporal	null	null	null	take up, follow, precede
+relational	circumstantial	spatial	null	run, extend from, reach	null	cross, circle, surround, enclose, follow, cover, crown, span, overhang, extend over, permeate, dominate, support, face, parallel, overlook, inhabit
+relational	circumstantial	comparative	null	"differ from; become, suit"	null	"resemble, match, fit; exceed, outnumber"
+relational	circumstantial	causal	reason	null	null	"bring about, cause, lead to, produce, result in; arise from"
+relational	circumstantial	causal	concession	null	null	conflict with, contradict, contravene, preclude, prevent
+relational	circumstantial	causal	condition	depend on, hinge on	null	condition, determine
+relational	circumstantial	accompaniment	null	null	null	accompany, complement
+relational	circumstantial	matter	null	concern, be concerned with, deal with, treat of, go into	null	cover, touch upon, take up, discuss, expound on
+existential	neutral	exist	null	null	exist, remain	null
+existential	neutral	happen	null	null	"arise; occur, come about, happen, take place"	null
+existential	+ circumstantial feature	time	null	null	follow, ensue	null
+existential	+ circumstantial feature	place	null	null	"sit, stand, lie; hang, rise, stretch, emerge, grow"	null
+existential	abstract	null	null	null	erupt, flourish, prevail	null

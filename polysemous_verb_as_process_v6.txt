@@ -1,0 +1,150 @@
+no	item	auxiliary 	catenative	PROCESS.material	PROCESS.behavioural	PROCESS.mental	PROCESS.verbal	PROCESS.relational	PROCESS.existential
+1	add	null	null	" join to thing else; put together to calculate total value"	null	null	 say as a further remark	null	null
+2	admit	null	 [projection: proposition: locution]	 allow (him, her, them, us) to enter a place	null	 accept as valid	" confess to be true or to be the case, typically reluctantly; acknowledge"	null	null
+3	agree	null	 [projection: proposal: consenting]	null	null	 have the same opinion	 concur	with be consistent with	null
+4	allow	null	 [modulation: agency and causative]	" permit him, her, them, us to have a, an, the, this, that, those, these; set aside a, an, the, this, that, those, these for a specific purpose"	null	null	 concede	 admit as legal	null
+5	anticipate	null	 [projection: proposal: intention]	null	null	" expect, predict; look forward to"	null	 be a forerunner or precursor of	null
+6	appear	null	 [reality-phase: apparent]	" come into sight; become visible or noticeable, typically without visible agent or apparent cause"	null	null	null	" seem; give the impression of being"	" come into sight; become visible or noticeable, typically without visible agent or apparent cause"
+7	ask	null	 [projection: proposal: demanding]	null	null	null	" say to get an answer; request"	null	null
+8	aspire	null	 [projection: proposal: expectations]	null	null	 direct hopes or ambitions towards	null	null	null
+9	assure	null	null	 cover (a person) with life insurance	null	null	 tell him, her, them, us a, an, the, this, that, those, these positively or confidently to dispel any doubts they may have	 make (a, an, the, this, that, those, these) certain to happen	null
+10	attempt	null	 [conation: conative] make an effort to achieve or complete (a, an, the, this, that, those, these, typically a difficult task or action)	" make an effort to achieve or complete (a, an, the, this, that, those, these, typically a difficult task or action) ; try to climb"	null	null	null	null	null
+11	avoid	null	 [conation: conative]	" try not to meet; not go through; prevent"	null	null	null	null	null
+12	be	" [tense: secondary present be v-ing]
+
+ [voice: passive be v-en]"	null	null	null	null	 like say	" having the state, quality, identity, nature, role, etc., specified; occur, take place"	 exist, present
+13	become	null	null	null	null	null	null	" begin to be; suit, look good on; be appropriate or suitable to"	null
+14	begin	null	 [time-phase: inceptive]	" start; perform or undergo the first part of (an action or activity); originate"	null	null	 start speaking by saying	null	null
+15	begin by	null	 [modulation: time] do first	null	null	null	null	null	null
+16	believe	null	null	null	null	" accept thing as true; feel sure of the truth of; hold (thing) as an opinion; think or suppose; feel sure that (him, her, them, us) is capable of a particular action"	null	 [assignment: projection]	null
+17	break	null	null	break	null	 (him, her, them, us, our heart)	null	null	null
+18	break in	null	null	 force entry to a building	null	null	 interrupt	null	null
+19	cause	null	 make (a, an, the, this, that, those, these bad) happen	 make (a, an, the, this, that, those, these bad) happen	null	null	null	 make (a, an, the, this, that, those, these bad) happen	null
+20	cease	null	 [time-phase: inceptive] come to an end, stop	 bring or come to an	null	null	null	null	null
+21	choose	null	 [projection: proposal: intention]  decide on a course of action, typically after rejecting alternatives	 pick out or select (him, her, them, us or a, an, the, this, that, those, these) as being the best or most appropriate of alternatives	null	null	null	null	null
+22	circle	null	null	" move all the way around, especially more than once; draw a line around"	null	null	null	 be around, form a ring around	null
+23	claim	null	 [projection: proposition: claiming]	 make a demand for (money) under the terms of an insurance policy	null	null	 state or assert that  is the case, typically without providing evidence or proof	 cause the loss of	null
+24	come	null	 [modulation: concession] do contrary to expectation	" move toward the speaker; occur, happen"	null	 occur to	null	" become; be available; extend to; be in a certain position"	 appear
+25	consent	null	 [projection: proposal: consenting]	null	null	null	 give permission for a, an, the, this, that, those, these to happen	null	null
+26	consider	null	 [projection: proposal: intention] think about and be drawn towards (a course of action)	 look attentively at	 look attentively at	 believe, think that, ponder on over	null	 regard	null
+27	contain	null	null	" control or restrain (oneself or a feeling); prevent (a severe problem) from increasing in extent or intensity"	null	null	null	 have or hold (him, her, them, us or a, an, the, this, that, those, these) within	null
+28	continue	null	 [time-phase: durative] persist in an activity or process	" persist in an activity or process; carry on with (that one has begun; carry on traveling in the same direction; recommence or resume after interruption"	null	null	 carry on speaking after a pause or interruption	null	null
+29	contrive	null	 [conation: conative]	 create	null	null	null	null	null
+30	create	null	null	 bring into existence	null	null	null	" invest (him, her, them, us) with a new rank or title; cause  to happen as a result of ones actions"	null
+31	cross	null	null	" go or extend across or to the other side of (a path, road, stretch of water, or area); pass in an opposite or different direction; intersect; cause (two things) to intersect; draw a line or lines across; mark with a cross; cause (an animal of one species, breed, or variety) to interbreed with one of another species, breed, or variety"	null	" anger; oppose or stand in the way of (him, her, them, us)"	null	" be across; pass in an opposite or different direction; intersect"	null
+32	decide	null	" [projection: proposal: intention] come to a resolution as a result of consideration
+
+ [projection: proposal: intention and causative]"	  make a choice from a number of alternatives	null	"come to a resolution as a result of consideration; come to a decision about (thing)
+
+ cause (him, her, them, us) to come to a resolution"	null	null	null
+33	decline	null	 [projection: proposal: consenting (negative)]	"politely refuse; move downward; become smaller"	null	null	null	null	null
+34	demand	null	 [projection: proposal: demanding]	null	null	" ask authoritatively or brusquely; insist on having"	null	 require, need	null
+35	demonstrate	null	 take part in a public demonstration	null	null	null	" give a practical exhibition and explanation of (how a machine, skill, or craft works or is performed); show or express (a feeling or quality) by  actions"	 clearly show the existence or truth of (thing) by giving proof or	null
+36	desire	null	 [projection: proposal: desideration]	null	null	 strongly wish for, want	null	null	null
+37	determine	null	null	null	null	 ascertain or establish exactly, typically as a result of research or calculation	null	" cause (thing) to occur in a particular way; be the decisive factor in"	null
+38	develop	null	null	" grow or cause to grow; start to exist; treat (a photographic film) with chemicals to make a visible image"	null	null	null	null	null
+39	do	" [auxiliary]; note also: substitute verb do"	null	do	null	null	null	 be suitable or acceptable	null
+40	drip	null	null	" let fall or be so wet as to shed small drops of liquid; cause or allow (a liquid) to shed small drops; display a copious amount or degree of a particular quality or thing"	null	null	null	 be bad	null
+41	elect	null	 [projection: proposal: idea: intention] opt for or choose to do thing	 choose (him, her, them, us) to hold public office or some other position by voting	null	null	null	 [assignment]	null
+42	elude	null	null	" evade, escape from; fail to be attained by"	null	 fail to be understood or remembered	null	null	null
+43	enable	null	 [potentiality: potential and causative]	 make operational	null	null	null	" make possible; cause"	null
+44	encourage	null	 [conation: conative and causative]	 help develop	null	 give confidence	null	 cause	null
+45	end up	null	 [modulation: time] do last	null	null	null	null	null	null
+46	end up by	null	 [modulation: time] do last	null	null	null	null	null	null
+47	ensue	null	null	null	null	null	null	 happen or occur afterward or as a result	 happen or occur afterward or as a result
+48	erupt	null	null	" (of a volcano) become active and eject lava, ash, and gases; be ejected from an active volcano; (of an object) explode with fire and noise resembling an active volcano"	 give vent to anger, enthusiasm, amusement, or other feelings in a sudden and noisy way	null	null	null	 (of an object) explode with fire and noise resembling an active volcano
+49	escape	null	null	" break free; elude; avoid; leak"	null	" fail to be noticed by; fail to be remembered by"	null	null	null
+50	exceed	null	null	" become greater in number or size than (a quantity, number, or other measurable thing); go beyond what is allowed or stipulated by (a set limit, especially of  authority); surpass"	null	null	null	 be more than, be greater in number or size than (a quantity, number, or other measurable thing)	null
+51	exist	null	null	 live, especially under adverse conditions	null	null	null	null	 have objective reality or being
+52	expect	null	 [projection: proposal: expectation]	null	null	" regard as likely to happen; believe that him, her, them, us or thing will arrive soon; think, suppose"	null	null	null
+53	fail	null	 [conation: reussive]	" break down; not succeed"	null	null	null	null	null
+54	fear	null	 [projection: proposal: fearing] avoid or put off doing thing because one is afraid	null	null	 be afraid, be afraid of (him, her, them, us or thing) as likely to be dangerous, painful, or threatening	null	null	null
+55	feel	null	null	null	 examine or search by touch	" be aware of (a person or object) through touching or being touched; experience (an emotion or sensation); have a belief or impression, especially without an identifiable reason, hold an opinion "	null	 experience (an emotion or sensation)	null
+56	find	null	null	" reach, arrive at; succeed in obtaining; summon up with an effort"	" ascertain by study; discover after a deliberate search"	" become aware of; perceive by chance"	null	" perceive to be the case; declare to be the case"	null
+57	flourish	null	null	" (of a person, animal, or other living organism) grow or develop in a healthy or vigorous way, especially as the result of a particularly favourable environment; (of a person) wave (thing) around to attract the attention of others"	null	null	null	null	 develop rapidly and successfully
+58	follow	null	null	" go after. go or come after (a person or thing proceeding ahead); move or travel behind; come after in time or order; act according to (an instruction or precept)"	null	[ understand got it realize accept idea belief]	null	" be after, be after in time or order; happen after (thing else) as a consequence;  be according to"	null
+59	force	null	 [modulation: agency and causative]	" break open by force; push into a position; make do against will"	 achieve by effort, force a smile	null	null	null	null
+60	forget	null	 [modulation: reason] not do according to intention	 fail to bring	null	" fail to remember; cease to think of"	null	null	null
+61	get	 [voice: passive: mutative]	" [time-phase: inceptive];  [modulation: agency and causative]"	" receive; go; catch; strike; punish"	null	" understand; baffle; annoy; amuse"	null	 become	null
+62	go on	null	 [time-phase: durative]	" happen; take place; continue or persevere"	 talk at great length, especially tediously or angrily	null	 continue speaking or doing thing after a short pause	null	null
+63	grow	null	 [time-phase: inceptive] come to feel or know thing over time	" undergo natural; become larger or greater over a period of time; increase"	null	null	null	 become gradually or increasingly	null
+64	happen	null	 [modulation: reason] do by chance	 occur, take place	null	null	null	 come about by chance it	present eventuate
+65	hasten	null	 [modulation: manner] do quickly	" move quickly; cause to happen sooner"	null	null	null	null	null
+66	hate	null	 [projection: proposal: desideration]	null	null	 feel intense dislike for	null	null	null
+67	have	 [tense: secondary: past have v-en]	 [modulation: agency and causative]	" undergo; perform; receive"	 perform have a look	null	null	" possess; hold"	null
+68	help	null	 [modulation: accompaniment] do together with	" assist; serve him, her, them, us"	null	null	null	null	null
+69	hesitate	null	 [modulation: manner] do reluctantly	 pause before doing	null	[ have + idea, doubt, fear]	 pause before saying	null	null
+70	hold	null	null	hold	null	 have or adhere to (a belief or opinion)	" (of a judge or court) rule; decide"	" contain, contain or be capable of containing (a specified amount); have in  possession; be or remain valid or available;  [assigned] consider (him, her, them, us) to be responsible or liable for a particular situation"	null
+71	hope	null	 [projection: proposal: expectation]	null	null	 want thing to be the case	null	null	null
+72	include	null	null	 make part of a whole or set	null	null	null	 comprise or contain as part of a whole	null
+73	indicate	null	null	 (of a person) direct attention to (him, her, them, us or thing) by means of a gesture	null	null	 admit to or state briefly	" point out; show; be a sign or symptom of; strongly imply"	null
+74	insist on	null	 [modulation: manner] do perversely	null	null	null	 demand forcefully	null	null
+75	intend	null	[projection: proposal: intention]	null	null	 plan that	null	null	null
+76	keep	null	" [time-phase: durative]; continue doing or do repeatedly or habitually  [causative] make (him, her, them, us) do thing for a period of time"	" continue or cause to continue in a specified condition, position, course, etc. ; provide for the sustenance of (him, her, them, us); make written entries in (a diary) on a regular basis; delay or detain; cause to be late"	null	null	null	" continue or cause to continue in a specified condition, position, course, etc. ; have or retain possession of; (of a perishable commodity) remain in good condition"	null
+77	know	null	null	null	null	 be aware of, have knowledge (of), be familiar with, have good command of, have personal experience of	null	null	null
+78	learn	null	 [potentiality: become able to]	 acquire skill	 commit to memory	come to know	null	null	null
+79	let	null	 [modulation: agency and causative]	" allow to pass; rent"	null	null	null	null	null
+80	like	null	 [projection: proposal: desideration]	null	null	" find agreeable; wish for, want"	null	null	null
+81	long	null	 [projection: proposal: desideration]	null	null	 have a strong wish or desire	null	null	null
+82	look	null	null	null	 direct  gaze toward him, her, them, us or thing or in a specified direction	null	null	 have the appearance or give the impression of being, seem	null
+83	make	null	 [modulation: agency and causative]	" create; draw up; cause to exist; gain, earn; act as if"	null	null	null	" constitute; appoint; cause to be"	null
+84	manage	null	 [conation: reussive]	" control; serve as manager of; succeed against odds"	null	null	null	null	null
+85	mean	null	 [projection: proposal: intention]	null	null	" intend to convey; be of importance to"	null	" represent; have as a consequence"	null
+86	mind	null	 [projection: proposal: desideration] be reluctant to do	 take care of temporarily	null	" be annoyed by; regard as important"	null	null	null
+87	move	null	null	" go in a specified direction or manner; change position; change or cause to change from one state, opinion, sphere, or activity to another; make progress; develop in a particular manner or direction"	null	 provoke a strong feeling, especially of sorrow or sympathy	 propose for discussion and resolution at a meeting or legislative assembly	null	null
+88	need	null	 [projection: proposal: needing]	null	null	null	null	 require a, an, the, this, that, those, these because it is essential	null
+89	oblige	null	 [modulation: agency and causative]	null	null	 please	null	null	null
+90	permit	null	 [modulation: agency and causative]	null	null	null	null	" authorize; make possible"	null
+91	plan	null	 [projection: proposal: intention]	 design, arrange	null	 decide in advance	null	null	null
+92	play	null	null	play	null	null	null	 represent (a character) in a theatrical performance or on film	null
+93	possess	null	null	 (of a demon or spirit, especially an evil one) have complete power over (him, her, them, us) and be manifested through their speech or actions	null	null	null	" have as belonging to one; own"	null
+94	practise	null	 [potentiality: become able to]	"perform to improve; perform regularly; pursue, be engaged in"	null	null	null	null	null
+95	pretend	null	 [projection: proposition: pretending	null	null	 simulate, engage in a game or fantasy that involves supposing thing that is not the case to be so	" speak so as to make it appear; lay claim to"	null	null
+96	profess	null	 [projection: proposition: claiming]	 received into a religious order under vows	null	null	" claim openly but often falsely; affirm ones faith in or allegiance to"	null	null
+97	promise	null	 [projection: proposal: promising	 pledge to marry	null	null	" assure him, her, them, us; announce as being expected to happen"	 give good grounds for	null
+98	prove	null	 [reality-phase: realized]	" (of bread dough) become aerated by the action of yeast; rise"	null	null	 demonstrate the truth or existence of (thing) by evidence or argument	" be seen or found to be; demonstrate by evidence or argument (him, her, them, us or thing) to be"	null
+99	provide	null	null	 make available for use , supply, feed, serve, present, furnish	null	null	 stipulate a will other legal document	null	null
+100	refuse	null	" [projection: proposal: consenting (negative)]
+ [conation: reussive]"	" not give; not jump"	null	null	 indicate or show that one is not willing to do thing	null	null
+101	regret	null	 [modulation: manner] do sadly	null	null	 feel sad, repentant	null	null	null
+102	remain	null	null	null	null	null	null	" keep; unchange; continue to possess a particular quality fulfil a particular role; stay in the place that one has been occupying; be left over after others or other parts have been completed, used, dealt with"	 continue to exist
+103	remember	null	 [modulation: reason] do according to intention	null	null	 recall	 convey greetings to	null	null
+104	remind	null	 [modulation: reason and causative]	null	null	" cause to remember; cause to think"	 bring to the attention of	null	null
+105	request	null	 [projection: proposal: demanding]	null	null	null	 politely or formally ask for	null	null
+106	require	null	" [modulation: agency and causative]
+ [projection: proposal: needing]"	null	null	null	null	" need; specify as compulsory"	null
+107	run	null	null	" move at a speed faster than walk; flow or cause to flow; make a regular journey; manage; be or cause to be in operation; smuggle"	null	null	null	" become; cost"	null
+108	say	null	 [projection: proposition: hearsay] be said	null	null	null	 indicate	null	null
+109	see	null	null	" meet; escort; him, her, them, us out"	null	" perceive with eyes; understand"	null	 ensure (to it that)	null
+110	seem	null	 [reality-phase: apparent]	null	null	null	null	" give the impression or sensation of being thing or having a particular quality; (it seems or it would seem) used to suggest in a cautious, guarded, or polite way that thing is true or a fact"	 appear to exists
+111	show	null	null	null	null	null	 display or allow to be perceived	" be visible; demonstrate, prove"	null
+112	smell	null	null	 emit an odour or scent of a specified kind	 sniff at, sniff at (thing) in order to perceive or detect its odour or scent	 perceive or detect the odour or scent of (thing)	null	 emit an odour or scent of a specified kind, have a strong or unpleasant odour	null
+113	sound	null	null	 emit or cause to emit sound	null	null	null	 convey a specified impression when heard	null
+114	start	null	" [time-phase: inceptive]; [causative]"	" come into being; begin or be reckoned from a particular point in time or space; cause (an event or process) to happen"	 give a small jump or make a sudden jerking movement from surprise or alarm	null	null	null	null
+115	stink	null	null	" emit smell; [ a place up] fill a place with a strong unpleasant smell"	null	null	null	" have a strong unpleasant smell;  be very unpleasant, contemptible, or scandalous"	null
+116	stop	null	" [time-phase: inceptive]; [causative]"	" (of an event, action, or process) come to an end; cease to happen; cause (an action, process, or event) to come to an end; block or close up (a hole or leak)"	null	null	null	null	null
+117	strive	null	 [conation: conative]	 try to achieve, obtain	null	null	null	null	null
+118	succeed	null	 [conation: reussive]	" achieve result; take over from"	null	null	null	 follow	null
+119	suck	null	null	" draw into the mouth by contracting the muscles of the lip and mouth to make a partial vacuum; draw in a specified direction by creating a vacuum"	null	null	null	 be very bad, disagreeable, or disgusting	null
+120	supply	null	null	" make (thing needed or wanted) available to him, her, them, us; provide"	null	null	null	 be adequate to satisfy (a requirement or demand)	null
+121	take	null	null	" lay hold of with hand; reach for hold; remove from a place; consume; carry bring with; accept receive; perform action task"	null	" understand accept valid; tolerate, stand; assume "	null	" regard or view in a specified way; accommodate; require as part of "	null
+122	taste	null	null	 eat or drink a small portion of	 " sample or test the flavour of (food or drink) by taking it into the mouth"	" perceive or experience the flavour of; have experience of"	null	 have a specified flavour	null
+123	teach	null	 [potentiality: achieval and causative]	 instruct	null	 cause to know	 show, explain	 cause	null
+124	tell	null	null	null	null	" decide or determine correctly or with certainty; distinguish (one person or thing) from another; perceive (the difference) between one person or thing and another"	" communicate information, facts, or news to him, her, them, us; order, instruct, or advise (him, her, them, us) to do thing; narrate or relate (a tale or story); reveal (information) to him, her, them, us in a nonverbal way"	null	null
+125	tend	null	 [modulation: time] do typically	" go or move in a particular direction ; [to, towards] be liable to possess or display (a particular characteristic)"	null	null	null	null	null
+126	thank	null	null	null	null	null	" express gratitude to him, her, them, us; request of command, implying reproach or annoyance"	null	null
+127	threaten	null	 [projection: proposal: promising]	 seem likely to occur	null	null	 state ones intention to take hostile action	 cause to be vulnerable, endanger	null
+128	throw	null	null	throw	null	" surprise, disconcert; confuse"	null	null	null
+129	try	null	" [conation: conative]
+ [modulation: purpose] do as means to an end"	" test; subject to trial"	null	 make severe demands on (a person or a quality, typically patience)	null	null	null
+130	turn	null	null	" move or cause to move in a circular direction wholly or partly around an axis or point; shape (thing) on a lathe"	null	null	null	 become, change in nature, state, form, or colour	null
+131	understand	null	null	null	null	" perceive the intended meaning of; infer thing from information received; assume to be the case, take for granted"	null	null	null
+132	undertake	null	 [projection: proposal: promising]	 take on	null	null	" guarantee affirm; give formal pledge"	null	null
+133	upset	null	null	" knock (thing) over; cause disorder in (thing); disrupt"	null	 make (him, her, them, us) unhappy, disappointed, or worried	null	null	null
+134	venture	null	 [modulation: manner] do tentatively	" dare to do; expose to the risk of loss of"	null	null	 dare to say	null	null
+135	vow	null	 [projection: proposal: promising]	null	null	null	 solemnly promise	null	null
+136	want	null	 [projection: proposal: desideration]	null	null	 desire to possess, wish for	null	" be short of, lack; desire to be"	null
+137	wish	null	 [projection: proposal: desideration]	null	null	 desire, hope for	null	 desire him, her, them, us to have success good well	null
+138	date	null	null	meet see place restaurant friend	null	friendship pleasing enjoyable agreeable	null	null	null
+139	observe	null	null	null	taking action to view watch	pay attention to in silent	null	null	null
+140	go	null	null	visit place where motion move	null	null	say tell let us be like	run process get fall	null

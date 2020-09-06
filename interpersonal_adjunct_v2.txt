@@ -1,0 +1,10 @@
+Item	AdjunctMood	AdjunctComment	AdjunctAddressing
+1	surely, certainly, probably, perhaps, maybe, always, never, usually, often, sometimes, occassionally, rarely, Surely, Certainly, Probably, Perhaps, Maybe, Always, Never, Usually, Often, Sometimes, Occassionally, Rarely	null	null
+2	null	naturally, of course, obviously, clearly, doubtless, unsurprisingly, predictably, surprisingly, evidently, allegedly, supposedly, arguably, presumably, luckily, fortunately, hopefully, sadly, unfortunately, amusingly, funnily, importantly, significantly, truly, honestly, admittedly, certainly, actually, in fact, generally, broadly, roughly, on the whole, legally, academically, morally, frankly, candidly, confidentially, between you and me, personally, strictly, tentatively, hypothetically, Naturally, Of course, Obviously, Clearly, Doubtless, Unsurprisingly, Predictably, Surprisingly, Evidently, Allegedly, Supposedly, Arguably, Presumably, Luckily, Fortunately, Hopefully, Sadly, Unfortunately, Amusingly, Funnily, Importantly, Significantly, Truly, Honestly, Admittedly, Certainly, Actually, In fact, Generally, Broadly, Roughly, On the whole, Legally, Academically, Morally, Frankly, Candidly, Confidentially, Between you and me, Personally, Strictly, Tentatively, Hypothetically	null
+3	null	null	my dear, My dear, dear, Dear, my God, My God, God, my darling, My darling, my love, My love, sir, Sir, madam, Madam, dear sir/madam, Dear Sir/Madam 
+4	null	Please, please	For me, For you, For us, For them, For him, For her, For God's sake, Honest to God
+5	null	further, Further	null
+6	null	traditionally, Traditionally	null
+7	unusually, Unusually	null	null
+
+

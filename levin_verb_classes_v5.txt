@@ -1,0 +1,193 @@
+Section	Verb Classes	List
+9.1	put verbs	arrange immerse install lodge mount place position put set situate sling stash stow
+9.2	dangle verbs	dangle hang lay lean perch rest sit stand suspend
+9.3	funnel verbs	bang channel dip dump funnel hammer ladle pound push rake ram scoop scrape shake shovel siphon spoon squash squeeze squish sweep tuck wad wedge wipe wring
+9.4	hoist verbs	drop hoist lift lower raise
+9.5	pour verbs	dribble drip pour slop slosh spew spill spurt
+9.6	coil verbs	coil curl loop roll spin twirl twist whirl wind
+9.7	spray/load verbs	brush cram crowd cultivate dab daub drape drizzle dust hang heap inject jam load mound pack pile plant plaster prick pump rub scatter seed settle sew shower slather smear smudge sow spatter splash splatter spray spread sprinkle spritz squirt stack stick stock strew string stuff swab vest wash wrap
+9.8	fill verbs	adorn anoint bandage bathe bestrew bind blanket block blot bombard carpet choke cloak clog clutter coat contaminate cover dam dapple deck decorate deluge dirty dot douse drench edge embellish emblazon encircle encrust endow enrich entangle face festoon fill fleck flood frame garland garnish imbue impregnate infect inlay interlace interlard interleave intersperse interweave inundate lard lash line litter mask mottle ornament pad pave plate plug pollute replenish repopulate riddle ring ripple robe saturate season shroud smother soak soil speckle splotch spot staff stain stipple stop up stud suffuse surround swaddle swathe taint tile trim veil vein wreathe
+9.9	butter verbs	asphalt bait blanket blindfold board bread brick bridle bronze butter buttonhole cap carpet caulk chrome cloak cork crown diaper drug feather fence flour forest frame fuel gag garland glove graffiti gravel grease groove halter harness heel ink label leash leaven lipstick mantle mulch muzzle nickel oil ornament panel paper parquet patch pepper perfume pitch plank plaster poison polish pomade poster postmark powder putty robe roof rosin rouge rut saddle salt salve sand seed sequin shawl shingle shoe shutter silver slate slipcover sod sole spice stain starch stopper stress string stucco sugar sulphur tag tar tarmac tassel thatch ticket tile turf veil veneer wallpaper water wax whitewash wreathe yoke zipcode
+9.10	pocket verbs	archive bag bank beach bed bench berth billet bin bottle box cage can case cellar cloister coop corral crate dock drydock file fork garage ground hangar house jail jar jug kennel land lodge pasture pen pillory pocket pot sheathe shelter shelve shoulder skewer snare spindle spit spool stable string tin trap tree warehouse
+10.1	remove verbs	abstract cull delete discharge disengage disgorge dislodge dismiss draw eject eliminate eradicate evict excise excommunicate expel extirpate extract extrude lop omit ostracize oust partition pry reap remove separate sever shoo subtract uproot winkle withdraw wrench
+10.2	banish verbs	banish deport evacuate expel extradite recall remove
+10.3	clear verbs	clean clear drain empty
+10.4.1	wipe verbs (manner)	bail buff dab distill dust erase expunge flush leach lick pluck polish prune purge rinse rub scour scrape scratch scrub shave skim smooth soak squeeze strain strip suck suction swab sweep trim wash wear weed whisk winnow wipe wring
+10.4.2	wipe verbs (instrument)	brush comb file filter hoover hose iron mop plow rake sandpaper shear shovel siphon sponge towel vacuum
+10.5	steal verbs	abduct cadge capture confiscate cop emancipate embezzle exorcise extort extract filch flog grab impound kidnap liberate lift nab pilfer pinch pirate plagiarize purloin reclaim recover redeem regain repossess rescue retrieve rustle seize smuggle snatch sneak sponge steal swipe take thieve wangle weasel winkle withdraw wrest
+10.6	cheat verbs	absolve acquit balk bereave bilk bleed break burgle cheat cleanse con cull cure defraud denude deplete depopulate deprive despoil disabuse disarm disencumber dispossess divest drain ease exonerate fleece free gull milk mulct pardon plunder purge purify ransack relieve render rid rifle rob sap strip swindle unburden void wean
+10.7	pit verbs	bark beard bone burl core gill gut head hull husk lint louse milk peel pinion pip pit pith pod poll pulp rind scale scalp seed shell shuck skin snail stalk stem stone string tail tassel top vein weed wind worm zest
+10.8	debone verbs	deaccent debark debone debowel debug debur declaw defang defat defeather deflea deflesh defoam defog deforest defrost defuzz degas degerm deglaze degrease degrit degum degut dehair dehead dehorn dehull dehusk deice deink delint delouse deluster demast derat derib derind desalt descale desex desprout destarch destress detassel detusk devein dewater dewax deworm
+10.9	mine verbs	mine quarry
+11.1	send verbs	airmail convey deliver dispatch express FedEx forward hand mail pass port post return send shift ship shunt slip smuggle sneak transfer transport UPS
+11.2	slide verbs	bounce float move roll slide
+11.3	bring verbs	bring take
+11.4	carry verbs	carry drag haul heave heft hoist kick lug pull push schlep shove tote tow tug
+11.5	drive verbs	barge bus cart drive ferry fly row shuttle truck wheel wire
+12	push/pull verbs	draw heave jerk press pull push shove thrust tug yank
+13.1	give verbs	feed give lease lend loan pass pay peddle refund render rent repay sell serve trade
+13.2	contribute verbs	administer contribute disburse distribute donate extend forfeit proffer refer reimburse relinquish remit restore return sacrifice submit surrender transfer
+13.3	FUT:have verbs	advance allocate allot assign award bequeath cede concede extend grant guarantee issue leave offer owe promise vote will yield
+13.4.1	entrust verbs	credit entrust furnish issue leave present provide serve supply trust
+13.4.2	equip verbs	arm burden charge compensate equip invest ply regale reward saddle
+13.5.1	get verbs	book buy call cash catch charter choose earn fetch find gain gather get hire keep lease leave order phone pick pluck procure pull reach rent reserve save secure shoot slaughter steal vote win
+13.5.2	obtain verbs	accept accumulate acquire appropriate borrow cadge collect exact grab inherit obtain purchase receive recover regain retrieve seize select snatch
+13.6	exchange verbs	barter change exchange substitute swap trade
+13.7	berry verbs	antique berry birdnest blackberry clam crab fish fowl grouse hay log mushroom nest nut oyster pearl prawn rabbit seal shark shrimp snail snipe sponge whale whelk
+14	learn verbs	acquire cram glean learn memorize read study
+15.1	hold verbs	clasp clutch grasp grip handle hold wield
+15.2	keep verbs	hoard keep leave store
+16	conceal verbs	block cloister conceal curtain hide isolate quarantine screen seclude sequester shelter
+17.1	throw verbs	bash bat bunt cast catapult chuck fire flick fling flip hit hurl kick knock lob loft nudge pass pitch punt shoot shove slam slap sling smash tap throw tip toss
+17.2	pelt verbs	bombard buffet pelt shower stone
+18.1	hit verbs	bang bash batter beat bump butt dash drum hammer hit kick knock lash pound rap slap smack smash strike tamp tap thump thwack whack
+18.2	swat verbs	bite claw paw peck punch scratch shoot slug stab swat swipe
+18.3	spank verbs	belt birch bludgeon bonk brain cane clobber club conk cosh cudgel cuff flog knife paddle paddywhack pummel sock spank strap thrash truncheon wallop whip whisk
+18.4	thud verbs	bang brush bump crash hit knock ram slam smash thud
+19	poke verbs	dig jab pierce poke prick stick
+20	touch verbs	caress graze kiss lick nudge pat peck pinch prod sting stroke tickle touch
+21.1	cut verbs	chip clip cut hack hew saw scrape scratch slash snip
+21.2	carve verbs	bore bruise carve chip chop crop crush cube dent dice drill file fillet gash gouge grate grind mangle mash mince mow nick notch perforate prune pulverize punch shred slice slit spear squash squish
+22.1	mix verbs	add blend combine commingle concatenate connect cream fuse join link merge mingle mix network pool
+22.2	amalgamate verbs	affiliate alternate amalgamate associate coalesce coincide compare confederate confuse conjoin consolidate contrast correlate criss-cross engage entangle entwine harmonize incorporate integrate interchange interconnect interlace interlink interlock intermingle interrelate intersperse intertwine interweave introduce marry mate muddle oppose pair rhyme team total unify unite wed
+22.3	shake verbs	append attach band baste beat bind bond bundle cluster collate collect fasten fuse gather glom graft group herd jumble lump mass moor package pair roll scramble sew shake shuffle splice stick stir swirl weld whip whisk
+22.4	tape verbs	anchor band belt bolt bracket buckle button cement chain clamp clasp clip epoxy fetter glue gum handcuff harness hinge hitch hook knot lace lash lasso latch leash link lock loop manacle moor muzzle nail padlock paste peg pin plaster rivet rope screw seal shackle skewer solder staple stitch strap string tack tape tether thumbtack tie trammel wire yoke zip
+22.5	cling verbs	adhere cleave cling
+23.1	separate verbs	decouple differentiate disconnect disentangle dissociate distinguish divide divorce part segregate separate sever
+23.2	split verbs	blow break cut draw hack hew kick knock pry pull push rip roll saw shove slip split tear tug yank
+23.3	disassemble verbs	detach disassemble disconnect partition sift sunder unbolt unbuckle unbutton unchain unclamp unclasp unclip unfasten unglue unhinge unhitch unhook unlace unlatch unleash unlock unpeg unpin unscrew unshackle unstaple unstitch untie unzip
+23.4	differ verbs	differ diverge
+24	color verbs	color distemper dye enamel glaze japan lacquer paint shellac spraypaint stain tint varnish
+25.1	applique verbs	applique emboss embroider engrave etch imprint incise inscribe mark paint set sign stamp tattoo
+25.2	scribble verbs	carve chalk charcoal copy crayon doodle draw forge ink paint pencil plot print scratch scrawl scribble sketch spraypaint stencil trace type write
+25.3	monogram verbs	address adorn autograph brand date decorate embellish endorse illuminate illustrate initial label letter monogram ornament tag
+25.4	transcribe verbs	copy film forge microfilm photocopy photograph record tape televise transcribe type
+26.1	build verbs	arrange assemble bake blow build carve cast chisel churn compile cook crochet cut develop embroider fashion fold forge grind grow hack hammer hatch knit make mold pound roll sculpt sew shape spin stitch weave whittle
+26.2	grow verbs	develop evolve grow hatch mature
+26.3	prepare verbs	bake blend boil brew clean clear cook fix fry grill hardboil iron light mix poach pour prepare roast roll run scramble set softboil toast toss wash
+26.4	create verbs	coin compose compute concoct construct create derive design dig fabricate form invent manufacture mint model organize produce recreate style synthesize
+26.5	knead verbs	beat bend coil collect compress fold freeze knead melt shake squash squeeze squish twirl twist wad whip wind work
+26.6	turn verbs	alter change convert metamorphose transform transmute turn
+26.7	perform verbs	chant choreograph compose dance direct draw hum intone paint perform play produce recite silkscreen sing spin take whistle write
+27	engender verbs	beget cause create engender generate shape spawn
+28	calve verbs	calve cub fawn foal kitten lamb litter pup spawn whelp
+29.1	appoint verbs	acknowledge adopt appoint consider crown deem designate elect esteem imagine mark nominate ordain proclaim rate reckon report want
+29.2	characterize verbs	accept address appreciate bill cast certify characterize choose cite class classify confirm count define describe diagnose disguise employ engage enlist enroll enter envisage establish esteem hail herald hire honor identify imagine incorporate induct intend lampoon offer oppose paint portray praise qualify rank recollect recommend regard reinstate reject remember represent repudiate reveal salute see select stigmatize take train treat use value view visualize
+29.3	dub verbs	anoint baptize brand call christen consecrate crown decree dub label make name nickname pronounce rule stamp style term vote
+29.4	declare verbs	adjudge adjudicate assume avow believe confess declare fancy find judge presume profess prove suppose think warrant
+29.5	conjecture verbs	admit allow assert conjecture deny discover feel figure grant guarantee guess hold know maintain mean observe recognize repute show suspect
+29.6	masquerade verbs	act behave camouflage count masquerade officiate pose qualify rank rate serve
+29.7	orphan verbs	apprentice canonize cripple cuckold knight martyr orphan outlaw pauper recruit widow
+29.8	captain verbs	boss bully butcher butler caddy captain champion chaperone chauffeur clerk coach cox crew doctor emcee escort guard host model mother nurse partner pilot pioneer police referee shepherd skipper sponsor star tailor tutor umpire understudy usher valet volunteer witness
+30.1	see verbs	detect discern feel hear notice see sense smell taste
+30.2	sight verbs	descry discover espy examine eye glimpse inspect investigate note observe overhear perceive recognize regard savor scan scent scrutinize sight spot spy study survey view watch witness
+30.3	peer verbs	check gape gawk gaze glance glare goggle leer listen look ogle peek peep peer sniff snoop squint stare
+30.4	feel verbs	feel look smell sound taste
+31.1	amuse verbs	abash affect afflict affront aggravate agitate agonize alarm alienate amaze amuse anger annoy antagonize appall appease arouse assuage astonish astound awe baffle beguile bewilder bewitch boggle bore bother bug calm captivate chagrin charm cheer chill comfort concern confound confuse console content convince cow crush cut daunt daze dazzle deject delight demolish demoralize depress devastate disappoint disarm discombobulate discomfit discompose disconcert discourage disgrace disgruntle disgust dishearten disillusion dismay dispirit displease disquiet dissatisfy distract distress disturb dumbfound elate electrify embarrass embolden enchant encourage engage engross enlighten enliven enrage enrapture entertain enthrall enthuse entice entrance exasperate excite exhaust exhilarate fascinate faze flabbergast flatter floor fluster frighten frustrate gall galvanize gladden gratify grieve harass haunt hearten horrify humble humiliate hurt hypnotize impress incense infuriate inspire insult interest intimidate intoxicate intrigue invigorate irk irritate jar jollify jolt lull madden mesmerize miff mollify mortify move muddle mystify nauseate nettle numb obsess offend outrage overawe overwhelm pacify pain peeve perplex perturb pique placate plague please preoccupy provoke puzzle rankle reassure refresh relax relieve repel repulse revitalize revolt rile ruffle sadden satisfy scandalize scare shake shame shock sicken sober solace soothe spellbind spook stagger startle stimulate sting stir strike stump stun stupefy surprise tantalize tease tempt terrify terrorize threaten thrill throw tickle tire titillate torment touch transport trouble try unnerve unsettle uplift upset vex weary worry wound wow
+31.2	admire verbs	abhor admire adore appreciate cherish deplore despise detest disdain dislike distrust dread enjoy envy esteem exalt execrate fancy favor fear hate idolize lament like loathe love miss mourn pity prize regret relish resent respect revere rue savor stand support tolerate treasure trust value venerate worship
+31.3	marvel verbs	ache anger anguish approve bask beware bleed bother care cheer cringe cry delight despair disapprove enthuse exult fear feel fret fume gladden gloat glory grieve groove gush hunger hurt luxuriate madden marvel mind moon mope mourn obsess puzzle rage rave react rejoice revel rhapsodize sadden salivate seethe sicken sorrow suffer swoon thrill tire wallow weary weep wonder worry
+31.4	appeal verbs	appeal grate jar matter niggle
+32.1	want verbs	covet crave desire fancy need want
+32.2	long verbs	ache crave dangle fall hanker hope hunger itch long lust pine pray thirst wish yearn
+33.1	positive judgement verbs	acclaim applaud bless celebrate commend compensate compliment eulogize excuse extol felicitate forgive greet hail honor laud pardon praise recompense remunerate repay reward salute thank toast welcome
+33.2	negative judgement verbs	backbite abuse calumniate castigate censure chasten chastise chide condemn congratulate criticize decry defame denigrate denounce deprecate deride disparage fault fine impeach insult lambaste malign mock penalize persecute prosecute punish rebuke reprimand reproach reprove revile ridicule scold scorn shame snub upbraid victimize vilify
+34	assess verbs	analyze assess audit evaluate review scrutinize study
+35.1	hunt verbs	dig feel fish hunt mine poach scrounge
+35.2	search verbs	advertise check comb dive drag dredge excavate patrol plumb probe prospect prowl quarry rake rifle scavenge scour scout search shop sift trawl troll watch
+35.3	stalk verbs	smell stalk taste track
+35.4	investigate verbs	canvass examine explore frisk inspect investigate observe quiz raid ransack riffle scan scrutinize survey tap
+35.5	rummage verbs	bore burrow delve forage fumble grope leaf listen look page paw poke rifle root rummage scrabble scratch snoop thumb tunnel
+35.6	ferret verbs	ferret nose seek tease
+36.1	correspond verbs	agree argue banter bargain bicker brawl clash coexist collaborate collide combat commiserate communicate compete concur confabulate conflict consort cooperate correspond dicker differ disagree dispute dissent duel elope feud flirt haggle hobnob jest joke joust mate mingle mix neck negotiate pair plot quarrel quibble rendezvous scuffle skirmish spar spat spoon squabble struggle tilt tussle vie war wrangle wrestle
+36.2	marry verbs	court cuddle date divorce embrace hug kiss marry nuzzle pass pet
+36.3	meet verbs	battle box consult debate fight meet play visit
+37.1	quote verbs	ask cite demonstrate dictate explain explicate narrate pose preach quote read recite relay show teach tell write
+37.2	tell verb	tell
+37.3	snap/cackle verbs	babble bark bawl bellow bleat boom bray burble cackle call carol chant chatter chirp cluck coo croak croon crow cry drawl drone gabble gibber groan growl grumble grunt hiss holler hoot howl jabber lilt lisp moan mumble murmur mutter purr rage rasp roar rumble scream screech shout shriek sing snap snarl snuffle splutter squall squawk squeak squeal stammer stutter thunder tisk trill trumpet twitter wail warble wheeze whimper whine whisper whistle whoop yammer yap yell yelp yodel
+37.4	cable verbs	cable e-mail fax modem netmail phone radio relay satellite semaphore sign signal telecast telegraph telephone telex wire wireless
+37.5	talk verbs	speak talk
+37.6	chitchat verbs	argue chat chatter chitchat confer converse gab gossip rap schmooze yak
+37.7	say verbs	announce articulate blab blurt claim confess confide convey declare mention note observe proclaim propose recount reiterate relate remark repeat report reveal say state suggest
+37.8	complain verbs	boast brag complain crab gripe grouch grouse grumble kvetch object
+37.9	advise verbs	admonish advise alert caution counsel instruct warn
+38	bark verbs	baa bark bay bellow blat bleat bray buzz cackle call caw chatter cheep chirp chirrup chitter cluck coo croak crow cuckoo drone gobble growl grunt hee-haw hiss honk hoot howl low meow mew moo neigh oink peep pipe purr quack roar scrawk scream screech sing snap snarl snort snuffle squawk squeak squeal stridulate trill tweet twitter wail warble whimper whinny whistle woof yap yell yelp yip yowl
+39.1	eat verbs	drink eat
+39.2	chew verbs	chew chomp crunch gnaw lick munch nibble peck pick sip slurp suck
+39.3	gobble verbs	bolt gobble gulp guzzle quaff swallow swig wolf
+39.4	devour verbs	consume devour imbibe ingest swill
+39.5	dine verbs	banquet breakfast brunch dine feast graze lunch luncheon nosh picnic snack sup
+39.6	gorge verbs	exist feed flourish gorge live prosper survive thrive
+39.7	bottlefeed verbs	bottlefeed breastfeed feed forcefeed handfeed spoonfeed
+40.1.1	hiccup verbs	belch blush burp flush hiccup pant sneeze sniffle snore snuffle swallow wheeze yawn
+40.1.2	breathe verbs	bleed breathe cough cry dribble drool puke spit sweat vomit weep
+40.1.3	exhale verbs	exhale inhale perspire
+40.2	beam verbs	beam cackle chortle chuckle cough cry frown gape gasp gawk giggle glare glower goggle grimace grin groan growl guffaw howl jeer laugh moan pout scowl sigh simper smile smirk sneeze snicker sniff snigger snivel snore snort sob titter weep whistle yawn
+40.3.1	wink verbs	blink clap nod point shrug squint wag wave wink
+40.3.2	crane verbs	arch bare bat beat blow clench click close cock crane crook cross drum flap flash flex flick flutter fold gnash grind hang hunch kick knit open pucker purse raise roll rub shake show shuffle smack snap stamp stretch toss turn twiddle twitch wag waggle wiggle wring wrinkle
+40.3.3	curtsey verbs	bob bow curtsey genuflect kneel salaam salute
+40.4	snooze verbs	catnap doze drowse nap sleep slumber snooze
+40.5	flinch verbs	balk cower cringe flinch recoil shrink wince
+40.6	convulse verbs	convulse cower quake quiver shake shiver shudder tremble writhe
+40.7	suffocate verbs	asphyxiate choke drown stifle suffocate
+40.8.1	pain verbs	ache bother hurt itch pain
+40.8.2	tingle verbs	burn hum pound prickle pucker reel smart spin split sting swim throb tickle tingle
+40.8.3	hurt verbs	bark bite break bruise bump burn chip cut fracture hurt injure nick prick pull rupture scald scratch skin split sprain strain stub turn twist
+40.8.4	swoon verbs	blanch faint sicken swoon
+41.1.1	dress verbs	bathe change disrobe dress exercise preen primp shave shower strip undress wash
+41.1.2	groom verbs	curry groom
+41.2.1	floss verbs	brush floss shave wash
+41.2.2	braid verbs	bob braid brush clip coldcream comb condition crimp crop curl cut dye file henna lather manicure part perm plait pluck powder rinse rouge set shampoo soap talc tease towel trim wave
+41.3.1	don verbs	doff don wear
+41.3.2	spruce verbs	doll dress spruce tog
+41.3.3	clad verbs	attire clad garb robe
+42.1	murder verbs	assassinate butcher dispatch eliminate execute immolate kill liquidate massacre murder slaughter slay
+42.2	poison verbs	asphyxiate crucify drown electrocute garrotte hang knife poison shoot smother stab strangle suffocate
+43.1	sparkle verbs	beam blaze blink burn flame flare flash flicker glare gleam glimmer glint glisten glitter glow incandesce scintillate shimmer shine sparkle twinkle
+43.2	bang verbs	babble bang beat beep bellow blare blast blat boom bubble burble burr buzz chatter chime chink chir chitter chug clack clang clank clap clash clatter click cling clink clomp clump clunk crack crackle crash creak crepitate crunch cry ding dong explode fizz fizzle groan growl gurgle hiss hoot howl hum jangle jingle knell knock lilt moan murmur patter peal ping pink pipe plink plonk plop plunk pop purr putter rap rasp rattle ring roar roll rumble rustle scream screech shriek shrill sing sizzle snap splash splutter sputter squawk squeak squeal squelch strike swish swoosh thrum thud thump thunder thunk tick ting tinkle toll toot tootle trill trumpet twang ululate vroom wail wheeze whine whir whish whistle whoosh whump zing
+43.3	reek verbs	reek smell stink
+43.4	belch verbs	belch bleed bubble dribble drip drool emanate exude foam gush leak ooze pour puff radiate seep shed slop spew spill spout sprout spurt squirt steam stream sweat
+44	destroy verbs	annihilate blitz decimate demolish destroy devastate exterminate extirpate obliterate ravage raze ruin waste wreck
+45.1	break verbs	break chip crack crash crush fracture rip shatter smash snap splinter split tear
+45.2	bend verbs	bend crease crinkle crumple fold rumple wrinkle
+45.3	cook verbs	bake barbecue blanch boil braise broil brown charbroil charcoal-broil coddle cook crisp deep-fry French  fry fry grill hardboil heat microwave oven-fry oven-poach overcook pan-broil pan-fry parboil parch percolate perk plank poach pot-roast rissole roast saute scald scallop shirr simmer softboil steam steam-bake stew stir-fry toast
+45.4	alternating change of state verbs	abate accelerate acetify acidify advance age agglomerate air alkalify alter ameliorate americanize atrophy attenuate awake awaken balance blacken blast blunt blur brighten broaden brown burn burst calcify capsize caramelize carbonify carbonize change char cheapen chill clean clear clog close coagulate coarsen collapse collect compress condense contract cool corrode crimson crisp crumble crystallize dampen darken de-escalate decelerate decentralize decompose decrease deepen deflate defrost degenerate degrade dehumidify demagnetize democratize depressurize desiccate destabilize deteriorate detonate dim diminish dirty disintegrate dissipate dissolve distend divide double drain dry dull ease empty emulsify energize enlarge equalize evaporate even expand explode fade fatten federate fill firm flatten flood fossilize fray freeze freshen frost fructify fuse gasify gelatinize gladden glutenize granulate gray green grow halt harden harmonize hasten heal heat heighten humidify hush hybridize ignite improve increase incubate inflate intensify iodize ionize kindle lengthen lessen level levitate light lighten lignify liquefy loop loose loosen macerate magnetize magnify mature mellow melt moisten muddy multiply narrow neaten neutralize nitrify open operate ossify overturn oxidize pale petrify polarize pop proliferate propagate pulverize purify purple putrefy quadruple quicken quiet quieten redden regularize rekindle reopen reproduce ripen roughen round rupture scorch sear sharpen short short-circuit shorten shrink shrivel shut sicken silicify silver singe sink slack slacken slim slow smarten smooth soak sober soften solidify sour splay sprout stabilize steady steep steepen stiffen straighten stratify strengthen stretch submerge subside sweeten tame tan taper tauten tense thaw thicken thin tighten tilt tire topple toughen triple ulcerate unfold unionize vaporize vary vibrate vitrify volatilize waken warm warp weaken westernize whiten widen worsen yellow
+45.5	blister verbs	blister bloom blossom burn corrode decay deteriorate erode ferment flower germinate molder molt rot rust sprout stagnate swell tarnish wilt wither
+45.6	decrease verbs	appreciate balloon climb decline decrease depreciate differ diminish drop fall fluctuate gain grow increase jump mushroom plummet plunge rise rocket skyrocket soar surge tumble vary
+46	lodge verbs	bivouac board camp dwell live lodge reside settle shelter stay stop
+47.1	exist verbs	coexist correspond depend dwell endure exist extend flourish languish linger live loom lurk overspread persist predominate prevail prosper remain reside shelter stay survive thrive tower wait
+47.2	billow verbs	billow bloom blossom blow breathe bristle bulge burn cascade corrode decay decompose effervesce erode ferment fester fizz flow flower foam froth germinate grow molt propagate rage ripple roil rot rust seethe smoke smolder spread sprout stagnate stream sweep tarnish trickle wilt wither
+47.3	wobble verbs	bob bow creep dance drift eddy flap float flutter hover jiggle joggle oscillate pulsate quake quiver revolve rock rotate shake stir sway swirl teeter throb totter tremble undulate vibrate waft wave waver wiggle wobble writhe
+47.4	echo verbs	din echo resonate resound reverberate sound
+47.5.1	swarm verbs	abound bustle crawl creep hop run swarm swim teem throng
+47.5.2	herd verbs	accumulate aggregate amass assemble cluster collect congregate convene flock gather group herd huddle mass
+47.5.3	bulge verbs	bristle bulge seethe
+47.6	balance verbs	balance bend bow crouch dangle flop fly hang hover jut kneel lean lie loll loom lounge nestle open perch plop project protrude recline rest rise roost sag sit slope slouch slump sprawl squat stand stoop straddle swing tilt tower
+47.7	meander verbs	cascade climb crawl cut drop go meander plunge run straggle stretch sweep tumble turn twist wander weave wind
+47.8	hug verbs	abut adjoin blanket border bound bracket bridge cap contain cover cross dominate edge encircle enclose fence fill flank follow frame head hit hug intersect line meet miss overhang precede rim ring skirt span straddle support surmount surround top touch underlie
+48.1.1	appear verbs	appear arise awake awaken break burst come dawn derive develop emanate emerge erupt evolve exude flow form grow gush issue materialize open plop pop up result rise show up spill spread steal stem stream supervene surge turn up wax
+48.1.2	assert verbs	assert declare define express form intrude manifest offer pose present proffer recommend shape show suggest
+48.2	die verbs	die disappear expire lapse perish vanish
+48.3	transpire verbs	ensue eventuate happen occur recur transpire
+49	buck verbs	buck fidget flap gyrate kick rock squirm sway teeter totter twitch waggle wiggle wobble wriggle
+50	crouch verbs	bend bow crouch flop hang kneel lean lie perch plop rise sit slouch slump sprawl squat stand stoop straddle
+51.1	advance verbs	advance arrive ascend climb come cross depart descend enter escape exit fall flee go leave plunge recede return rise tumble
+51.2	abandon verbs	abandon desert leave
+51.3.1	roll verbs	bounce coil drift drop float glide move revolve roll rotate slide spin swing turn twirl twist whirl wind
+51.3.2	run verbs	amble backpack bolt bounce bound bowl canter carom cavort charge clamber climb clump coast crawl creep dart dash dodder drift file flit float fly frolic gallop gambol glide goosestep hasten hike hobble hop hurry hurtle inch jog journey jump leap limp lollop lope lumber lurch march meander mince mosey nip pad parade perambulate plod prance promenade prowl race ramble roam roll romp rove run rush sashay saunter scamper scoot scram scramble scud scurry scutter scuttle shamble shuffle sidle skedaddle skip skitter skulk sleepwalk slide slink slither slog slouch sneak somersault speed stagger stomp stray streak stride stroll strut stumble stump swagger sweep swim tack tear tiptoe toddle totter traipse tramp travel trek troop trot trudge trundle vault waddle wade walk wander whiz zigzag zoom
+51.4.1	skate verbs	balloon bicycle bike boat bobsled bus cab canoe caravan chariot coach cycle dogsled ferry gondola helicopter jeep jet kayak moped motor motorbike motorcycle parachute punt raft rickshaw rocket skate skateboard ski sled sledge sleigh taxi toboggan tram trolley yacht
+51.4.2	pedal verbs	cruise drive fly oar paddle pedal ride row sail tack
+51.5	waltz verbs	boogie bop cancan clog conga dance foxtrot jig jitterbug jive pirouette polka quickstep rumba samba shuffle squaredance tango tapdance waltz
+51.6	chase verbs	chase follow pursue shadow tail track trail
+51.7	accompany verbs	accompany conduct escort guide lead shepherd
+52	avoid verbs	avoid boycott dodge duck elude evade shun sidestep
+53.1	linger verbs	dally dawdle delay dither hesitate linger loiter tarry
+53.2	rush verbs	hasten hurry rush
+54.1	measure verbs	measure read register total weigh
+54.2	cost verbs	carry cost last take
+54.3	fit verbs	carry contain feed fit hold house seat serve sleep store take use
+54.4	price verbs	appraise assess estimate fix peg price rate value
+54.5	bill verbs	bet bill charge fine mulct overcharge save spare tax tip undercharge wager
+55.1	begin verbs	begin cease commence continue end finish halt keep proceed repeat resume start stop terminate
+55.2	complete verbs	complete discontinue initiate quit
+56	weekend verbs	holiday honeymoon overnight sojourn summer vacation weekend winter
+57	rain verbs	blow clear drizzle fog freeze gust hail howl lightning mist mizzle pelt pour precipitate rain roar shower sleet snow spit spot sprinkle storm swelter teem thaw thunder

@@ -1,0 +1,16 @@
+process type	subtype	subtype2	subtype3	middle_ranged	middle_non-ranged	effective
+material	null	null	null	null	null	use
+material	null	null	null	null	null	share, distribute, split
+mental	inner	cognitive	null	null	null	caution, urge, warn
+behavioural	null	null	null	null	wake	null
+behavioural	null	null	null	null	null	tasting, looking, working, sniffing, playing, jumping, eating, working, studying, driving, walking, writing, reading, talking, biking, crawling, decorating, haunting, kicking, entertaining, following, growling, yelling, listening, sleeping, sitting, napping, thinking, observing 
+behavioural	sensing as behaviour	null	null	null	look at, gawk, view, look over, observe	null
+mental	perceptive	null	null	null	observe	null
+behavioural	cognitive	null	null	null	discover, seek	null
+material	transformative	elaborating	state	null	immunise	null
+material	transformative	elaborating	state	null	sanitize	null
+material	transformative	enhancing	place	null	hospitalize	null
+material	transformative	extending	null	null	make up	null
+material	transformative	enhancing	place	null	displace	null
+material	transformative	elaborating	state	null	deploy	null
+
